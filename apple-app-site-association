@@ -1,0 +1,23 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "D6PKAH3K9X.com.jtan06.product",
+        "paths": [
+          "/postPopUp/*"
+        ]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": [
+      "D6PKAH3K9X.com.jtan06.product"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "D6PKAH3K9X.com.jtan06.product"
+    ]
+  }
+}
