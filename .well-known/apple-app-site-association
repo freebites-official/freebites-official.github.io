@@ -5,7 +5,7 @@
       {
         "appID": "D6PKAH3K9X.com.jtan06.product",
         "paths": [
-          "/posts/*"
+          "/postPopUp/*"
         ]
       }
     ]
